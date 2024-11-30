@@ -17,7 +17,7 @@ export default function MainNavbar() {
             fw={900}
             c="green.6"
           >
-            App Store
+            Store
           </Anchor>
 
           <Flex gap={15}>
